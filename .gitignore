@@ -1,0 +1,25 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+.DS_Store
+.idea/
+.agent/
+/storage/logs/
+nohup.out
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+Apr-2021.tar.gz
+Apr-2021
+Apr-2021 2
+
+test2.php
+test.php
+Articles_NL.CSV
